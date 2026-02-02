@@ -15,3 +15,13 @@
   font-size: 18px;
   color: lightblue;
 }
+
+.Div-1 {
+  border: 2px dashed darkblue;
+  padding: 10px;
+}
+
+.Div-2 {
+  border: 2px dashed darkblue;
+  padding: 10px;
+}
