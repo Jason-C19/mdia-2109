@@ -13,3 +13,33 @@ This is a cat!
 ( o o )
 ==_Y_==
 `-'
+
+# Project 1 Action Plan
+
+## Project team members:
+
+-Jason
+-Tommy
+-Shanna
+
+## My area of focus: Navigation function
+
+I want to ensure that our navigation is:
+-Intuitive and clear
+-Responsive across mobile and desktop
+-Accesible and easy to use
+-Visually consistant with the overall design and smooth
+
+## Action plan implementation
+
+1. Review and strengthen my understanding of:
+   - Flexbox and Grid for layout control
+   - Media queries for responsive design
+   - Semantic HTML for accessibility
+   - Hover states and interactive styling in CSS
+
+2. Practice creating:
+   - Responsive navigation bars
+   - Mobile hamburger menus
+   - Dropdown menus
+   - Smooth scroll and anchor linking

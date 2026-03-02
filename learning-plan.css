@@ -1,0 +1,27 @@
+.Header-1 {
+  color: darkblue;
+}
+
+.Header-2 {
+  color: darkblue;
+}
+
+.Main-1 {
+  font-size: 18px;
+  color: lightblue;
+}
+
+.Main-2 {
+  font-size: 18px;
+  color: lightblue;
+}
+
+.Div-1 {
+  border: 2px dashed darkblue;
+  padding: 10px;
+}
+
+.Div-2 {
+  border: 2px dashed darkblue;
+  padding: 10px;
+}
