@@ -13,3 +13,19 @@ This is a cat!
 ( o o )
 ==_Y_==
 `-'
+
+# Project 1 Action Plan
+
+## Project team members:
+
+-Jason
+-Tommy
+-Shanna
+
+## My area of focus: Navigation function
+
+I want to ensure that our navigation is:
+-Intuitive and clear
+-Responsive across mobile and desktop
+-Accesible and easy to use
+-Visually consistant with the overall design and smooth
